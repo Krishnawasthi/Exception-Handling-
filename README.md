@@ -2,7 +2,9 @@
 ### exception is nothing. It's an abnormal situation occurred during your program.
 ### we as a developer need to make sure that there will not be any
 ### Abnormal situation. If abnormal situation comes, we need to handle those situations.
-### We cannot avoid, but we will have the… handling mechanism. */
+### We cannot avoid, but we will have the… handling mechanism.
+
+### exception is nothing. Abnormal situation came during program execution, Java will create a particular exception object, And it will Pass to the caller. Here, who is the caller? --> JVM only, main thread, it will give to main thread only.
 
 <img width="1640" height="740" alt="image" src="https://github.com/user-attachments/assets/6914c937-af92-40c3-be77-859fe87cb368" />
 
