@@ -74,3 +74,10 @@ Cannot divide by zero.
 ### // we will put the expected exception problem in try and block and throws it via catch block so there will be no abnormal termination
 <img width="1822" height="481" alt="image" src="https://github.com/user-attachments/assets/6587d321-379a-4013-b0e5-e5498599d923" />
 
+I have 1,000 exceptional. I cannot have thousand catch .
+Correct.
+But you try to have a catch for possible or critical exception.
+If you know that, okay, I handle 5 type exceptions here.
+Apart from these exercises, anything else comes?
+I'll write the only exception class. Okay, there's a hierarchy, there's another class form.
+
