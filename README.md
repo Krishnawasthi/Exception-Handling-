@@ -2,8 +2,9 @@
 
 
 Exception Handling is a mechanism in Java used to handle runtime errors without stopping the normal execution of a program. It improves the reliability and stability of applications by allowing developers to manage unexpected situations gracefully. Java provides keywords such as `try`, `catch`, `finally`, `throw`, and `throws` to implement exception handling. Proper exception handling makes code more robust, readable, and easier to maintain.
-### exception is nothing. It's an abnormal situation occurred during your program.
+
 __________________________________________________________________________________________________________________________________________________________________
+### exception is nothing. It's an abnormal situation occurred during your program.
 ### we as a developer need to make sure that there will not be any
 ### Abnormal situation. If abnormal situation comes, we need to handle those situations.
 ### We cannot avoid, but we will have the… handling mechanism.
