@@ -7,5 +7,5 @@
 
 <img width="1078" height="511" alt="image" src="https://github.com/user-attachments/assets/53388584-2d1a-4766-bde9-5e08103c5996" />
 
-### the last to catch block are unreachable that means compilation failure.
+### the last two catch block are unreachable that means compilation failure.(NullPointerException, ArrayIndexOutOfBoundsException).
 
