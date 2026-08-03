@@ -1,3 +1,6 @@
 <img width="1139" height="589" alt="image" src="https://github.com/user-attachments/assets/36d175ff-cf8d-460b-9c08-7624f705ab4e" />
 
  #### exception can handle by try and catch but error can't.
+
+ #### very important question from here in interviews.
+<img width="813" height="430" alt="image" src="https://github.com/user-attachments/assets/98b96fb3-8021-4b81-bc06-5c63193bb9c3" />
