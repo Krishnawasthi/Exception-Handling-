@@ -24,23 +24,40 @@ public class ReadFile
 		{
 			BufferedReader br = new BufferedReader(new java.io.FileReader(fileName));
 			// FindNotDFoundException
-
+         	br.readLine(); //skip the header
 			// read the data inside the file(in form of line)
 			String line;
-
-			while ((line = br.readLine()) != null)
+			double totalSalary = 0;
+		 	while ((line = br.readLine()) != null)
 			{
-
-				System.out.println(line);
+				
+			
+				String lineArr[] = line.split(",");
+				String city = lineArr[3];
+			    totalSalary = Double.parseDouble(lineArr[8]);
+			    
+				if (city.equalsIgnoreCase("Bengaluru"))
+				{
+					
+					System.out.println("city name :" + city);
+					
+				
 			}
-		} catch (FileNotFoundException e)  //filenotfoundexception
+			    System.out.println(lineArr[1] +" "+ lineArr[2]);
+				System.out.println("total salary :" + totalSalary);
+				
+				
+				
+			}
+		} catch (FileNotFoundException e) // filenotfoundexception
 		{
 			System.out.println("Wrong path");
 			e.printStackTrace();
-			
-		} catch (IOException e)//IOexception while reading the file(exception causes due to wrong path of file or or wrong name)
+
+		} catch (IOException e)// IOexception while reading the file(exception causes due to wrong path of file
+								// or or wrong name)
 		{
-          e.printStackTrace();
+			e.printStackTrace();
 		}
 	}
 

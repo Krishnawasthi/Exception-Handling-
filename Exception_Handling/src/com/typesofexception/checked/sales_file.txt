@@ -1,2 +1,11 @@
-krishna,User1,active,UID1232321
-mohan,User2,actvie,UID123412412
+EmployeeID,FirstName,LastName,City,Email,Phone,Department,JobTitle,Salary,JoiningDate
+EMP001,Rahul,Sharma,Bengaluru,rahul.sharma@example.com,9876543210,Engineering,Java Developer,850000,2023-01-15
+EMP002,Priya,Verma,Delhi,priya.verma@example.com,9876543211,Human Resources,HR Executive,550000,2022-08-10
+EMP003,Amit,Kumar,Bengaluru,amit.kumar@example.com,9876543212,Finance,Accountant,600000,2021-11-05
+EMP004,Neha,Singh,Pune,neha.singh@example.com,9876543213,Marketing,Marketing Manager,900000,2020-06-18
+EMP005,Vikram,Patel,Bengaluru,vikram.patel@example.com,9876543214,Engineering,Backend Developer,950000,2024-02-01
+EMP006,Sneha,Reddy,Chennai,sneha.reddy@example.com,9876543215,Sales,Sales Executive,500000,2023-09-12
+EMP007,Arjun,Mehta,Bengaluru,arjun.mehta@example.com,9876543216,Engineering,Software Engineer,780000,2022-04-20
+EMP008,Kavya,Nair,Kochi,kavya.nair@example.com,9876543217,Support,Technical Support Engineer,480000,2021-12-30
+EMP009,Rohan,Gupta,Bengaluru,rohan.gupta@example.com,9876543218,Operations,Operations Analyst,650000,2023-07-08
+EMP010,Ananya,Iyer,Bengaluru,ananya.iyer@example.com,9876543219,Engineering,Full Stack Developer,980000,2024-05-22
