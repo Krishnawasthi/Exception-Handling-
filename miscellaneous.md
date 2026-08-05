@@ -1,2 +1,3 @@
-<img width="932" height="317" alt="Screenshot 2026-08-05 213227" src="https://github.com/user-attachments/assets/072d981f-606e-4032-b971-e090ac7a4c0c" />
+<img width="1078" height="426" alt="image" src="https://github.com/user-attachments/assets/bdf45acf-9ee1-4dab-84e2-a152f7043aa3" />
+
 ### this is to understand the class cast exception.
