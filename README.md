@@ -81,6 +81,9 @@ If you know that, okay, I handle 5 type exceptions here.
 Apart from these exercises, anything else comes?
 I'll write the only exception class. Okay, there's a hierarchy, there's another class form.
 
+
 <img width="725" height="276" alt="image" src="https://github.com/user-attachments/assets/e0d5079c-6636-4360-8085-6e1fc52f833b" />
 
+
+<img width="824" height="389" alt="image" src="https://github.com/user-attachments/assets/d573381c-5367-4bef-81e2-db3b21d6162a" />
 
