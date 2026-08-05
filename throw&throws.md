@@ -98,6 +98,19 @@ public class ThrowsExample {
 }
 ```
 
+
+<img width="681" height="157" alt="image" src="https://github.com/user-attachments/assets/5395a672-e620-4569-a89d-6633f0ea82bb" />
+
+## solution:
+
+<img width="500" height="305" alt="image" src="https://github.com/user-attachments/assets/d3c673e5-1a3c-4ea2-a069-7468234108de" />
+
+<img width="488" height="450" alt="image" src="https://github.com/user-attachments/assets/e0800d9a-8a34-4a23-acc5-0d6b092f9f66" />
+
+
+
+
+
 ### Output
 
 ```
@@ -247,6 +260,8 @@ throw new InvalidAgeException("Age is not valid.");
 - Both keywords are commonly used together in Java exception handling.
 
 ---
+
+
 
 ## Author
 
