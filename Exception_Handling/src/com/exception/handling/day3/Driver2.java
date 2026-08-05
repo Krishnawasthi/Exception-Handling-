@@ -13,7 +13,7 @@ public class Driver2
 
 		try
 		{
-			ObjectInputStream ois = new ObjectInputStream(new FileInputStream("sales_file.txt")); // filenotfoundexception
+			ObjectInputStream ois = new ObjectInputStream(new FileInputStream("driver.srv")); // filenotfoundexception
 																									// //ioexception
 
 			try
@@ -26,15 +26,20 @@ public class Driver2
 			{
 				// TODO Auto-generated catch block
 				e.printStackTrace();
+				System.out.println("Driver2.readFile()..class not found exception");
 			}
 
 		} catch (FileNotFoundException e)
 		{
-
+			System.out.println("Driver2.readFile()..file not found exception");
 			e.printStackTrace();
+			
 		} catch (IOException e)
 		{
 			// TODO Auto-generated catch block
+			System.out.println("Driver2.readFile()..io exception found exception");
+			
+			
 			e.printStackTrace();
 		}
 	}
