@@ -3,10 +3,10 @@ package com.exceptionhandling.day2;
 public class User
 {
 
-	public void userLogin(String userName, String pwd)
+	public String userLogin(String userName, String pwd) throws Exception
 	{
 
-		String userId;
+		String userId = null;
 		String country = "IN";
 
 		try
@@ -30,6 +30,7 @@ public class User
 			e.printStackTrace();
 
 			System.out.println("user name can not be null");
+			throw new Exception("user id can not be null");
 		}
 		
 		catch (Exception e)
@@ -37,7 +38,9 @@ public class User
 
 			e.printStackTrace();
 
-			System.out.println("user name can not be null");
+			
+			
+			
 		}
 
 		
@@ -49,6 +52,7 @@ public class User
 		} 
 
 		System.out.println("close the driver....");
+		return userId;
 	}
 
 }
