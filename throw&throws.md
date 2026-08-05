@@ -1,7 +1,7 @@
-<img width="806" height="527" alt="image" src="https://github.com/user-attachments/assets/ee1fd5a9-8e74-445e-a78e-8b5145b24f22" />
+<img width="606" height="320" alt="image" src="https://github.com/user-attachments/assets/ee1fd5a9-8e74-445e-a78e-8b5145b24f22" />
 
 
-<img width="895" height="573" alt="image" src="https://github.com/user-attachments/assets/51fa91de-ad20-4f22-a14c-8ad42ce9949a" />
+<img width="560" height="304" alt="image" src="https://github.com/user-attachments/assets/51fa91de-ad20-4f22-a14c-8ad42ce9949a" />
 
 
 # Throw and Throws in Java
