@@ -76,6 +76,9 @@ try {
 ```
 
 Here, the same `catch` block handles both `ArithmeticException` and `NullPointerException`.
+
+<img width="712" height="74" alt="image" src="https://github.com/user-attachments/assets/c3619170-1e52-41f8-a712-723eb9b37152" />
+
 <img width="1056" height="262" alt="image" src="https://github.com/user-attachments/assets/2b4db4f0-4059-44e7-9c7d-c99fcb24c71d" />
 
 
