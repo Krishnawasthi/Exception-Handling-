@@ -17,6 +17,9 @@ ________________________________________________________________________________
 ### 1.all are the exception classes developed by Sun Microsystem or Oracle.
 ### 2.They have already provided the… because ultimately, it need to create object and throw.
 
+<img width="787" height="330" alt="image" src="https://github.com/user-attachments/assets/0cdb0dd9-2172-4e46-a530-39fb10e6ab68" />
+
+
 # Try-Catch Block in Java
 
 ## 📖 Introduction
