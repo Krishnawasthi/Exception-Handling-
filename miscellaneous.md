@@ -82,6 +82,25 @@ Here, the same `catch` block handles both `ArithmeticException` and `NullPointer
 <img width="1056" height="262" alt="image" src="https://github.com/user-attachments/assets/2b4db4f0-4059-44e7-9c7d-c99fcb24c71d" />
 
 
+# User-Defined Exception
+# User-Defined Exception
+
+User-defined exceptions are custom exceptions created by the programmer.
+They are used to handle application-specific errors.
+A custom exception can extend `Exception` or `RuntimeException`.
+Checked exceptions usually extend `Exception`.
+Unchecked exceptions usually extend `RuntimeException`.
+
+1. Create a custom exception class.
+2. Add a constructor with an error message.
+3. Use `throw` to throw the custom exception.
+4. Use `try-catch` to handle the exception.
+
+<img width="828" height="304" alt="image" src="https://github.com/user-attachments/assets/9e1bbcee-c69b-4e0d-983a-858eecd58e75" />
+
+
+
+
 
 
 
