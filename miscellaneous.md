@@ -37,7 +37,7 @@
 
 <img width="867" height="105" alt="image" src="https://github.com/user-attachments/assets/89f46db2-8bdf-4ca2-aea8-ee6b323077d1" />
 
-### you can not write inside try block other than closable or Autoclosable
+### you can not write inside try block other than closeable or Autocloseable
 <img width="722" height="100" alt="image" src="https://github.com/user-attachments/assets/4e15d55f-66e1-4f40-acd5-0abc4eac4dd7" />
 
 
