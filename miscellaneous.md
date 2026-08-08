@@ -106,6 +106,10 @@ Unchecked exceptions usually extend `RuntimeException`.
 
 <img width="1178" height="350" alt="image" src="https://github.com/user-attachments/assets/e44ce6c9-d210-423c-9972-322701548308" />
 
+### for E-com user defined exception (eg.):
+<img width="748" height="157" alt="image" src="https://github.com/user-attachments/assets/300058e4-15b2-43ef-a195-e6f41c4ed7a0" />
+
+
 
 
 
