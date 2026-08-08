@@ -101,7 +101,11 @@ Unchecked exceptions usually extend `RuntimeException`.
 ### * for better understanding check package : src/com/exceptionhandling/day4/user/def/exception.
 <img width="854" height="216" alt="image" src="https://github.com/user-attachments/assets/70197792-aabc-4737-bead-5fec4496ccfa" />
 
-<img width="1053" height="353" alt="image" src="https://github.com/user-attachments/assets/71c8c941-4348-43de-b650-c53da35c0e83" />
+<img width="1036" height="354" alt="image" src="https://github.com/user-attachments/assets/d421247a-b6ed-4dae-878b-447ff826e087" />
+
+
+<img width="1178" height="350" alt="image" src="https://github.com/user-attachments/assets/e44ce6c9-d210-423c-9972-322701548308" />
+
 
 
 
