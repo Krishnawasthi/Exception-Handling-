@@ -6,7 +6,10 @@
 
 
 # Try-With-Resources
-
+### try(auto closable statement)
+### {
+#####  Business Logic
+### }
 1. Try-with-resources is a feature used to automatically close resources.
 
 2. It was introduced in Java 7 to simplify resource management.
@@ -24,4 +27,6 @@
 8. Multiple resources can be declared in a single `try` statement.
 
 9. Common examples include `BufferedReader`, `FileInputStream`, and JDBC `Connection`.
+
+
 
