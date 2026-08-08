@@ -40,6 +40,44 @@
 ### you can not write inside try block other than closeable or Autocloseable
 <img width="722" height="100" alt="image" src="https://github.com/user-attachments/assets/4e15d55f-66e1-4f40-acd5-0abc4eac4dd7" />
 
+# Multi-Catch in Java
+
+Multi-catch allows multiple exceptions to be handled using a single `catch` block.
+
+## Key Points
+
+* Introduced in **Java 7**.
+* Uses the `|` (OR) operator between exception types.
+* Reduces duplicate exception-handling code.
+* Makes code shorter, cleaner, and easier to maintain.
+* The exceptions must not have a parent-child relationship.
+* The exception variable is implicitly `final`.
+
+## Syntax
+
+```java
+try {
+    // risky code
+} catch (ExceptionType1 | ExceptionType2 e) {
+    // handling code
+}
+```
+
+## Example
+
+```java
+try {
+    int result = 10 / 0;
+    String name = null;
+    System.out.println(name.length());
+} catch (ArithmeticException | NullPointerException e) {
+    System.out.println("Exception: " + e.getMessage());
+}
+```
+
+Here, the same `catch` block handles both `ArithmeticException` and `NullPointerException`.
+
+
 
 
 
