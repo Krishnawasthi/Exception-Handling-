@@ -31,6 +31,7 @@
  <img width="887" height="403" alt="image" src="https://github.com/user-attachments/assets/c4341228-ed3c-4de0-8cac-bea54ba99dc8" />
  
 ## Only those classes you can use inside try block(...........) which are inherit from Closeable or AutoCloseable.
+### Introduced in java 1.7 (Try with resources).
 
 <img width="927" height="126" alt="image" src="https://github.com/user-attachments/assets/ee596a97-7ba9-4625-ba75-eeb89f27aad6" />
 
