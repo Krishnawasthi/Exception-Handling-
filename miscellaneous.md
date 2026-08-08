@@ -28,5 +28,8 @@
 
 9. Common examples include `BufferedReader`, `FileInputStream`, and JDBC `Connection`.
 
+ <img width="887" height="403" alt="image" src="https://github.com/user-attachments/assets/c4341228-ed3c-4de0-8cac-bea54ba99dc8" />
+
+
 
 
